@@ -20,3 +20,5 @@ D:\Work\C-Sharp\WPF_TEST\obj\Debug\net5.0-windows\WPF_Test.dll
 D:\Work\C-Sharp\WPF_TEST\obj\Debug\net5.0-windows\ref\WPF_Test.dll
 D:\Work\C-Sharp\WPF_TEST\obj\Debug\net5.0-windows\WPF_Test.pdb
 D:\Work\C-Sharp\WPF_TEST\obj\Debug\net5.0-windows\WPF_Test.genruntimeconfig.cache
+D:\Work\C-Sharp\WPF_TEST\obj\Debug\net5.0-windows\AddTaskWindow.g.cs
+D:\Work\C-Sharp\WPF_TEST\obj\Debug\net5.0-windows\AddTaskWindow.baml
