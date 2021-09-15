@@ -1,0 +1,5 @@
+True,quick tasks,do the dishes
+False,quick tasks,work
+True,quick tasks,eat
+False,quick tasks,gym
+True,quick tasks,sleep
